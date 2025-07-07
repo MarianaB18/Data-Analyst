@@ -23,8 +23,8 @@
 
 ### 🔍 GitHub Stats
 
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maribriceno1811&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maribriceno1811&layout=compact&theme=dark)
+![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarianaB18&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaB18&layout=compact&theme=dark)
 
 ---
 
