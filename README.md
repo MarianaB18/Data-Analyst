@@ -1,6 +1,5 @@
 # Data-Analyst
 
-![Banner](https://github.com/MarianaB18/MarianaB18/assets/137469248/29ad96df-b505-4f86-9d5d-7219c922f97b)
 
 <h1 align="center">Hola, soy Mariana Briceño 👋</h1>
 
